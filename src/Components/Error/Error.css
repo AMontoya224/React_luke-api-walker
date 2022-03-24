@@ -1,0 +1,11 @@
+
+.error h1{
+    font-weight: 400;
+    font-size: 35px;
+    font-style: oblique;
+}
+
+.error img{
+    width: 700px;
+    border-radius: 10px;
+}
